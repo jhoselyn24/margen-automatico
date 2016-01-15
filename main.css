@@ -1,0 +1,17 @@
+.concepto{
+	    border: 10px solid yellow;
+		margin: 10px 1000px 0px 10px;
+		padding: 30px;
+		text-align: center;
+		display: block;
+		font-size: 12px;
+
+}
+.lenguajes{
+        border: 10px solid yellow;
+		margin: auto;
+		padding: 30px;
+		font-size: 12px;
+		width: 170px;
+
+} 
